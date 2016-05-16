@@ -1,0 +1,28 @@
+name: Tess Rethore Photography
+favicon: null
+layout_spectrum: 0.005036743823438883
+typography_spectrum: 0.058607683051377535
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.4467018414288759
+  lightness: 0.036048316629603505
+  saturation: 0.9468139957170933
+  rhythmicContrast: 0.9556527836248279
+purpose: []
